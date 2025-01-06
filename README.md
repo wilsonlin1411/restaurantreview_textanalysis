@@ -14,17 +14,18 @@
 (1) 使用Instant Data Scraper爬取Google動態評論示例(紅色框框即是要分析的評論)  
 <img src="https://github.com/user-attachments/assets/0822836d-33cb-409b-b0ab-c21ac57e3642" width="1000" />  
 
-(2) 將文本清理成乾淨、無特殊符號的型態
-<img src="https://github.com/user-attachments/assets/c65dd5a8-b270-4a27-9e0b-ac429c3545ee" width="800" />  
+(2) 將文本清理成乾淨、無特殊符號的型態  
+<img src="https://github.com/user-attachments/assets/c65dd5a8-b270-4a27-9e0b-ac429c3545ee" width="600" />  
 
 (3) 斷詞後，處理「否定詞合併」及「特定詞彙合併」  
 <img src="https://github.com/user-attachments/assets/308ee7a9-a827-4ea8-b4d6-86d1d79136ea" width="1000" />  
 
 (4) 文字雲結果呈現  
-<img src="https://github.com/user-attachments/assets/b0be3f70-90a5-4fca-a7d2-93b2d156c453" width="800" />  
-<img src="https://github.com/user-attachments/assets/8f8b96ac-3ccc-42e6-9276-6d3fffe63952" width="800" />  
-<img src="https://github.com/user-attachments/assets/0ab43282-9fd4-4cb3-b9ce-d5bce50f6ead" width="800" />  
+<img src="https://github.com/user-attachments/assets/b0be3f70-90a5-4fca-a7d2-93b2d156c453" width="600" />  
+<img src="https://github.com/user-attachments/assets/8f8b96ac-3ccc-42e6-9276-6d3fffe63952" width="600" />  
+<img src="https://github.com/user-attachments/assets/0ab43282-9fd4-4cb3-b9ce-d5bce50f6ead" width="600" />  
 
 
-
+– – – – –  
+⭐**以上僅為課程期末報告之呈現！**
 
